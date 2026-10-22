@@ -48,7 +48,9 @@ Please note that the Application utilizes third-party services that have their o
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://policies.google.com/technologies/partner-sites)
 - [Unity](https://unity3d.com/legal/privacy-policy)
+- [Unity Analytics](https://unity3d.com/legal/privacy-policy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
+- [Supabase](https://supabase.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
